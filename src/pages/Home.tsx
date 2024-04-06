@@ -13,7 +13,7 @@ function Home() {
       <div className="content" id="about-me">
         <div className='about-me'>
           <div className="image-container">
-            <img src="https://zulfa-varvani.github.io/zulfa-blog/public/z_new.jpg" alt="Your Profile" />
+            <img src="/zulfa-blog/z_new.jpg" alt="Your Profile" />
           </div>
           <div className="text-container">
             <h2>About Me 🙋🏽‍♀️</h2>
