@@ -11,7 +11,7 @@ function Kenya () {
             <div className='content'>
                 <div className='about-me'>
                     <div className="image-container-kenya">
-                        <img src="/public/kenya_food.jpg" alt="Kenya" />
+                        <img src="https://zulfa-varvani.github.io/zulfa-blog/public/kenya_food.jpg" alt="Kenya" />
                     </div>
                     <div className='text-container'>
                         <h2>Karibu Kenya 👋🏽</h2>
