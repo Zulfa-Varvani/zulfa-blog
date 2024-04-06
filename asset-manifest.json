@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/zulfa-blog/static/css/main.f9191e6f.css",
-    "main.js": "/zulfa-blog/static/js/main.d5497442.js",
+    "main.js": "/zulfa-blog/static/js/main.166c5324.js",
     "static/js/453.0894fa15.chunk.js": "/zulfa-blog/static/js/453.0894fa15.chunk.js",
     "index.html": "/zulfa-blog/index.html",
     "main.f9191e6f.css.map": "/zulfa-blog/static/css/main.f9191e6f.css.map",
-    "main.d5497442.js.map": "/zulfa-blog/static/js/main.d5497442.js.map",
+    "main.166c5324.js.map": "/zulfa-blog/static/js/main.166c5324.js.map",
     "453.0894fa15.chunk.js.map": "/zulfa-blog/static/js/453.0894fa15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9191e6f.css",
-    "static/js/main.d5497442.js"
+    "static/js/main.166c5324.js"
   ]
 }
