@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/zulfa-blog/static/css/main.f9191e6f.css",
-    "main.js": "/zulfa-blog/static/js/main.9cb43a74.js",
-    "static/js/453.0894fa15.chunk.js": "/zulfa-blog/static/js/453.0894fa15.chunk.js",
-    "index.html": "/zulfa-blog/index.html",
-    "main.f9191e6f.css.map": "/zulfa-blog/static/css/main.f9191e6f.css.map",
-    "main.9cb43a74.js.map": "/zulfa-blog/static/js/main.9cb43a74.js.map",
-    "453.0894fa15.chunk.js.map": "/zulfa-blog/static/js/453.0894fa15.chunk.js.map"
+    "main.css": "/zulfa-blog/src/static/css/main.f9191e6f.css",
+    "main.js": "/zulfa-blog/src/static/js/main.d911e3ae.js",
+    "static/js/453.0894fa15.chunk.js": "/zulfa-blog/src/static/js/453.0894fa15.chunk.js",
+    "index.html": "/zulfa-blog/src/index.html",
+    "main.f9191e6f.css.map": "/zulfa-blog/src/static/css/main.f9191e6f.css.map",
+    "main.d911e3ae.js.map": "/zulfa-blog/src/static/js/main.d911e3ae.js.map",
+    "453.0894fa15.chunk.js.map": "/zulfa-blog/src/static/js/453.0894fa15.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9191e6f.css",
-    "static/js/main.9cb43a74.js"
+    "static/js/main.d911e3ae.js"
   ]
 }
