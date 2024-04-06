@@ -11,7 +11,7 @@ function Egypt () {
             <div className='content'>
                 <div className='about-me'>
                     <div className="image-container-kenya">
-                        <img src="https://github.com/Zulfa-Varvani/zulfa-blog/blob/main/public/egypt_pic.jpg" alt="Egypt" />
+                        <img src="./img/egypt_pic.jpg" alt="Egypt" />
                     </div>
                     <div className='text-container'>
                         <h2>أهلا وسهلا إلى مصر 🧆</h2>
