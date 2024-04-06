@@ -1,0 +1,54 @@
+.recipe-container {
+  border: 1px solid #9e9d9d;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 1%;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
+
+.recipe-title {
+  text-align: left;
+}
+
+.recipe-image-container {
+  position: relative; /* Add this line to make the container position relative */
+}
+
+.recipe-image {
+  width: 250px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 5%;
+}
+
+.image-source {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: azure;
+  border-radius: 10%;
+  padding: 1%;
+  text-align: center;
+  font-size: 10px; /* Adjust the font size as needed */
+}
+
+.details {
+  margin-top: 20px;
+  text-align: left;
+}
+
+.buttons {
+  margin-top: 10px;
+}
+
+.buttons button {
+  margin-right: 10px;
+}
